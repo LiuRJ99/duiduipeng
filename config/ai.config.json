@@ -1,6 +1,6 @@
 {
     "defaultRole": {
-        "path": "D:\\dev-work\\duiduipeng\\ddp\\prompts\\roles\\trae.md",
+        "path": ".\\prompts\\roles\\trae.md",
         "enabled": true
     }
 }
